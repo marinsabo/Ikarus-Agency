@@ -14,8 +14,7 @@ The goal of the Ikarus Agency website was to:
 - Provide an **intuitive user experience** that guided visitors toward inquiries  
 
 During the agency’s operation:  
-- Worked with **15+ clients**  
-- Achieved **$30,000+ revenue**  
+- Worked with **15+ clients**   
 - Completed **5+ collaborations**  
 
 ---
