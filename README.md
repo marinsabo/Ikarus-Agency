@@ -1,25 +1,31 @@
 # Ikarus Agency 🌐  
-[🔗 Live Site]- Coming soon
+[🔗 Live Site] - Coming soon
 
-A **custom-built website** for **Ikarus Agency**, a professional service provider specializing in web development, design, and digital marketing. The site showcased the agency’s **portfolio, services, and contact information**, highlighting expertise and attracting potential clients.
+A **custom-built website** for **Ikarus Agency**, a professional service provider specializing in **web development, design, and digital marketing**. The site showcased the agency’s **portfolio, services, and contact information**, highlighting expertise and attracting potential clients.  
+
+This project was developed as part of my first web agency, in collaboration with **two colleagues**, during which we successfully completed multiple client projects and gained real-world experience running a small digital business.
 
 ---
 
 ## 🎯 Project Overview  
 The goal of the Ikarus Agency website was to:  
-- Present services and portfolio in a clear and professional manner  
-- Attract potential clients and establish credibility  
-- Provide an intuitive and visually appealing user experience
+- Present services and portfolio in a **clear, professional, and visually appealing manner**  
+- Attract potential clients and establish credibility for the agency  
+- Provide an **intuitive user experience** that guided visitors toward inquiries  
 
-During their operation, the agency worked with **15+ clients**, achieved **$30,000+ revenue**, and completed **5+ collaborations**.
+During the agency’s operation:  
+- Worked with **15+ clients**  
+- Achieved **$30,000+ revenue**  
+- Completed **5+ collaborations**  
 
 ---
 
 ## 🛠 Built With  
+- **Figma** – Wireframes and high-fidelity designs  
 - **HTML5** – Semantic and structured content  
-- **CSS3** – Responsive design, layout, and styling  
-- **JavaScript (vanilla)** – Interactive features and dynamic content  
-- **Responsive Design** – Optimized for desktop, tablet, and mobile devices  
+- **CSS3** – Responsive layouts, modern styling, and animations  
+- **JavaScript (vanilla)** – Interactive features and dynamic behavior  
+- **Responsive Design** – Optimized for desktop, tablet, and mobile  
 - **SEO Best Practices** – Improved discoverability and user experience  
 - **Hosting & Domain Management** – Full deployment setup  
 
@@ -29,26 +35,26 @@ During their operation, the agency worked with **15+ clients**, achieved **$30,0
 
 | Challenge | Solution |
 |-----------|---------|
-| Service Presentation | Clear, concise descriptions with visual highlights |
-| Portfolio Showcase | Engaging layout and project previews |
-| User Navigation | Intuitive menu structure and user-friendly design |
+| Presenting Services Clearly | Structured sections with concise descriptions and visual highlights |
+| Showcasing Portfolio | Engaging layout with project previews to demonstrate expertise |
+| User Navigation | Intuitive menu structure and consistent design for smooth user flow |
 
 ---
 
 ## 🚀 Development Process  
-1. **Discovery Call** – Understanding client goals and expectations  
-2. **Market Analysis** – Researched competitors and industry trends  
-3. **Design Phase** – Created wireframes and high-fidelity designs in Figma  
-4. **Development Phase** – Built the custom HTML/CSS/JS website  
-5. **SEO Optimization** – Implemented meta tags and content strategies  
-6. **Hosting & Domain Setup** – Managed live deployment  
-7. **Ongoing Maintenance** – Ensured smooth operation and updates  
+1. **Discovery Call** – Gathered project requirements and defined agency goals  
+2. **Market Analysis** – Researched competitors and digital agency trends  
+3. **Design Phase** – Created wireframes and high-fidelity mockups in Figma  
+4. **Development Phase** – Built the website using HTML, CSS, and JavaScript  
+5. **SEO Optimization** – Implemented meta tags, structured content, and performance improvements  
+6. **Hosting & Deployment** – Configured hosting and domain for live site  
+7. **Ongoing Maintenance** – Ensured smooth operation and updates as needed  
 
 ---
 
 ## 🎨 Design Highlights  
-- Professional, modern design tailored for a digital agency  
-- Clear service descriptions and structured portfolio  
-- Intuitive navigation for enhanced user experience  
-- Responsive layout for all devices  
- 
+- **Modern, professional design** reflecting a digital agency brand  
+- Clear and concise **service descriptions**  
+- Structured **portfolio showcase** to highlight past projects  
+- **Responsive layouts** optimized for all devices  
+- Clean navigation and **user-friendly interface** for improved engagement
