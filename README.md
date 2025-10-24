@@ -51,5 +51,4 @@ During their operation, the agency worked with **15+ clients**, achieved **$30,0
 - Clear service descriptions and structured portfolio  
 - Intuitive navigation for enhanced user experience  
 - Responsive layout for all devices  
-
-## 📂 Repository Structure  
+ 
