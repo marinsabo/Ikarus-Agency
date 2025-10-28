@@ -1,5 +1,5 @@
 # Ikarus Agency 🌐  
-[🔗 Live Site] - https://marinsabo.github.io/ikarus-agency/](https://marinsabo.github.io/Ikarus-Agency
+[🔗 Live Site] - https://marinsabo.github.io/Ikarus-Agency
 
 A **custom-built website** for **Ikarus Agency**, a professional service provider specializing in **web development, design, and digital marketing**. The site showcased the agency’s **portfolio, services, and contact information**, highlighting expertise and attracting potential clients.  
 
