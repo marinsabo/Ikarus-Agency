@@ -1,0 +1,14 @@
+{
+    "name": "Ikarus",
+    "short_name": "Ikarus",
+    "icons": [
+        {
+            "src": "/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ff0050",
+    "background_color": "#ff0050",
+    "display": "standalone"
+}
