@@ -10,10 +10,10 @@ document.addEventListener('DOMContentLoaded', () => {
         mobileBtn.addEventListener('click', () => {
             if (navLinks.classList.contains('active')) {
                 navLinks.classList.remove('active');
-                mobileBtn.innerHTML = '<i class="fa fa-bars"></i>';
+                mobileBtn.innerHTML = '<i class="fa-solid fa-bars"></i>';
             } else {
                 navLinks.classList.add('active');
-                mobileBtn.innerHTML = '<i class="fa fa-times"></i>';
+                mobileBtn.innerHTML = '<i class="fa-solid fa-xmark"></i>';
             }
         });
 
@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
         links.forEach(link => {
             link.addEventListener('click', () => {
                 navLinks.classList.remove('active');
-                mobileBtn.innerHTML = '<i class="fa fa-bars"></i>';
+                mobileBtn.innerHTML = '<i class="fa-solid fa-bars"></i>';
             });
         });
     }
