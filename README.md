@@ -1,59 +1,23 @@
-# Ikarus Agency 🌐  
-[🔗 Live Site] - https://marinsabo.github.io/Ikarus-Agency
+<h1 align="center">Ikarus Agency</h1>
 
-A **custom-built website** for **Ikarus Agency**, a professional service provider specializing in **web development, design, and digital marketing**. The site showcased the agency’s **portfolio, services, and contact information**, highlighting expertise and attracting potential clients.  
+<p align="center">The first "real" website I built, made for a web development agency my friends and I briefly ran. We soon went our separate ways due to different career interests, but the site remains part of my portfolio.</p>
 
-This project was developed as part of my first web agency, in collaboration with **two colleagues**, during which we successfully completed multiple client projects and gained real-world experience running a small digital business.
+## Links
 
----
+- [Repo](https://github.com/marinsabo/Ikarus-Agency "Ikarus Agency Repo")
+- [Live](https://marinsabo.github.io/Ikarus-Agency/ "Live View")
 
-## 🎯 Project Overview  
-The goal of the Ikarus Agency website was to:  
-- Present services and portfolio in a **clear, professional, and visually appealing manner**  
-- Attract potential clients and establish credibility for the agency  
-- Provide an **intuitive user experience** that guided visitors toward inquiries  
+## Screenshots
 
-During the agency’s operation:  
-- Worked with **10+ clients**   
-- Completed **2 collaborations**  
+![Home page – desktop](assets/screenshots/screenshot-desktop.png "Desktop view")
 
----
+![Home page – mobile](assets/screenshots/screenshot-mobile.png "Mobile view")
 
-## 🛠 Built With  
-- **Figma** – Wireframes and high-fidelity designs  
-- **HTML5** – Semantic and structured content  
-- **CSS3** – Responsive layouts, modern styling, and animations  
-- **JavaScript (vanilla)** – Interactive features and dynamic behavior  
-- **Responsive Design** – Optimized for desktop, tablet, and mobile  
-- **SEO Best Practices** – Improved discoverability and user experience  
-- **Hosting & Domain Management** – Full deployment setup  
+## Built With
 
----
+- HTML5
+- CSS3
 
-## 💡 Challenges & Solutions  
+## AI Usage
 
-| Challenge | Solution |
-|-----------|---------|
-| Presenting Services Clearly | Structured sections with concise descriptions and visual highlights |
-| Showcasing Portfolio | Engaging layout with project previews to demonstrate expertise |
-| User Navigation | Intuitive menu structure and consistent design for smooth user flow |
-
----
-
-## 🚀 Development Process  
-1. **Discovery Call** – Gathered project requirements and defined agency goals  
-2. **Market Analysis** – Researched competitors and digital agency trends  
-3. **Design Phase** – Created wireframes and high-fidelity mockups in Figma  
-4. **Development Phase** – Built the website using HTML, CSS, and JavaScript  
-5. **SEO Optimization** – Implemented meta tags, structured content, and performance improvements  
-6. **Hosting & Deployment** – Configured hosting and domain for live site  
-7. **Ongoing Maintenance** – Ensured smooth operation and updates as needed  
-
----
-
-## 🎨 Design Highlights  
-- **Modern, professional design** reflecting a digital agency brand  
-- Clear and concise **service descriptions**  
-- Structured **portfolio showcase** to highlight past projects  
-- **Responsive layouts** optimized for all devices  
-- Clean navigation and **user-friendly interface** for improved engagement
+I didn't use any AI in this project. Some parts of the website were written by other team members, so I can't speak to whether AI was used there.
